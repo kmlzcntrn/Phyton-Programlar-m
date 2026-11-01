@@ -1,1 +1,1 @@
-This respository contains my first Python practice scripts?
+This respository contains my first Python practice scripts.
